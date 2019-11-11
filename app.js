@@ -7,14 +7,14 @@ var budgetController = (function(){
         this.description = description;
         this.value = value;
         this.porcentage = -5;
-    }
+    };
     
     // construtor de Incomes (receitas)
     var Income = function(idconstrutor, description, value){           
         this.idconstrutor = idconstrutor;
         this.description = description;
         this.value = value;
-    }
+    };
 
     // dados do aplicativo
     var dados = {          
