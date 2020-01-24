@@ -8,9 +8,9 @@ in collaboration with Jonas Schmedtmann
 
 some instructions below:
 
-*******DOCUMENTATION********
+### Documentation
 
-=> GLOBAL APP CONTROLER
+#### GLOBAL APP CONTROLER
 - addEventlis => seleciona os eventos que irao inicializar o programa - :
     - Função de botao de input =>  adiciona item na lista no UI controller - controlAddItem();
     - Função de botão de delete => deleta item na lista no UI controller - deleteItem();
@@ -60,4 +60,5 @@ some instructions below:
             addEventlis(); // funcao que inicia os event listeners quando o aplicativo é inicializado;
             UIController.mostraData() // funcao que atualiza data quando o aplicativo é inicializado;
     - controller.init();(global object) - chama funcao init para inicializar o aplicativo.
-*/
+    
+    #### Screenshot
